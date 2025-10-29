@@ -4,7 +4,7 @@
 
 📍 Pune, India  
 📧 [devendrapatil2004@gmail.com](mailto:devendrapatil2004@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/devendra-patil-dev) | [GitHub](https://github.com/devendrapatil-mech)  
+🔗 [LinkedIn](https://www.linkedin.com/in/devendra-patil-dev) 
 
 ---
 
@@ -80,7 +80,6 @@ _Pimpri Chinchwad College of Engineering & Research, Pune (2022 – Present)_
 ## 📫 Let’s Connect
 💼 [LinkedIn](https://www.linkedin.com/in/devendra-patil-dev)  
 📧 [Email](mailto:devendrapatil2004@gmail.com)  
-🧰 [GitHub](https://github.com/devendrapatil-mech)
 
 ---
 
