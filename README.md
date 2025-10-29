@@ -79,6 +79,8 @@ Mechanical Engineering Undergraduate, Team Nashorns
 - Studied **mode shapes** and analyzed NVH characteristics of the ATV system.  
 - Implemented optimization loops to refine geometry and kinematic behavior.
 - <img width="482" height="453" alt="Screenshot 2025-10-29 163212" src="https://github.com/user-attachments/assets/dcc4a12a-a848-4103-abc8-a834468e7db8" />
+<img width="802" height="539" alt="Screenshot 2025-10-29 163317" src="https://github.com/user-attachments/assets/4187bd77-223b-4b94-90e9-bdb0876a0d16" />
+
 
 
 ---
