@@ -27,21 +27,52 @@ I enjoy applying engineering principles and modern simulation tools to create ef
 ---
 
 ## 🚗 Featured Projects
+# 🏎️ ATV Suspension Design
 
-### 🏎️ **ATV Suspension Design – Team Nashorns (BAJA SAE INDIA)**
-- Designed a **double-wishbone suspension system** using CATIA V5.  
-- Validated geometry and motion behavior in **Lotus Shark**.  
-- Conducted **static, modal, and transient analysis** using Ansys Workbench.  
-- Achieved improvements in **ride stability, weight reduction, and structural rigidity**.
+## 📘 Project Overview
+This project focuses on the **design and validation of a double-wishbone suspension system** for an All-Terrain Vehicle (ATV), developed as part of the **BAJA SAE INDIA** competition with **Team Nashorns**.
 
 ---
 
-### ⚙️ **Rack and Pinion Steering System**
-- Developed and analyzed **rack & pinion steering assembly** using EN36B material.  
-- Performed contact and stress analysis in **ANSYS** to evaluate load paths and durability.  
-- Optimized geometry to minimize steering effort and enhance control precision.
+## 🎯 Objectives
+- Design a lightweight and durable suspension system.  
+- Optimize suspension geometry for improved ride and handling.  
+- Validate performance using CAE and MBD tools.
 
 ---
+
+## 🧠 Tools & Software
+- **Design:** CATIA V5  
+- **Simulation:** ANSYS Workbench, Lotus Shark  
+- **Analysis Type:** Static, Modal, and Transient  
+
+---
+
+## ⚙️ Key Tasks
+- Modeled suspension components and geometry in CATIA.  
+- Performed FEA on control arms and knuckles to evaluate stresses.  
+- Conducted kinematic validation and ride analysis in Lotus Shark.  
+- Improved **weight efficiency** and **ride stability** while maintaining structural integrity.
+
+---
+
+## 🏆 Outcomes
+- Achieved **~15% weight reduction** in the suspension assembly.  
+- Improved handling performance and structural rigidity.  
+- Validated safe operating limits under off-road conditions.
+
+---
+
+## 👨‍🔧 Contributor
+**Devendra Patil**  
+Mechanical Engineering Undergraduate, Team Nashorns  
+📧 [devendrapatil2004@gmail.com](mailto:devendrapatil2004@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/devendra-patil-dev)
+
+---
+
+> “The suspension system defines how the vehicle *feels* on the ground — it’s where performance meets control.”
+
 
 ### 🧩 **Vehicle Dynamics & MBD Validation**
 - Conducted **rigid body dynamics simulations** to evaluate suspension and steering response.  
