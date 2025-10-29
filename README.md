@@ -78,6 +78,8 @@ Mechanical Engineering Undergraduate, Team Nashorns
 - Conducted **rigid body dynamics simulations** to evaluate suspension and steering response.  
 - Studied **mode shapes** and analyzed NVH characteristics of the ATV system.  
 - Implemented optimization loops to refine geometry and kinematic behavior.
+- <img width="482" height="453" alt="Screenshot 2025-10-29 163212" src="https://github.com/user-attachments/assets/dcc4a12a-a848-4103-abc8-a834468e7db8" />
+
 
 ---
 
